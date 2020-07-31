@@ -13,7 +13,7 @@ Puis, allez dans votre éditeur de code  ( PyCharm est le plus adapté ), créer
 
 ````
 import discord
-import discord.ext from commands
+from discord.ext import commands
 ````
 
 Ce code permet d'importer les librairies.
