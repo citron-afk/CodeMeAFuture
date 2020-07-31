@@ -26,4 +26,3 @@ bot.run("votre tocken")
 
 Pour récupérer votre tocken, allez dans l'espace développeur de discord ( https://discord.com/developers/applications/738304437151596554/bot ) et copier votre "tocken".
 Votre bot est en ligne !
-
