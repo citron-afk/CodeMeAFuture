@@ -5,7 +5,7 @@ Ensuite, allez dans "BOT" et "Build Bot". Et pour inviter votre bot dans votre s
 
 Après avoir installer discord.py et python, allez dans votre éditeur de code  ( PyCharm est le plus adapté ) et écrivez :
 
-import discord \n
+import discord
 import discord.ext from commands
 
 Ce code permet d'importer les librairies.
