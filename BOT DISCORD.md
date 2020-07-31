@@ -1,7 +1,7 @@
 # Créer un bot discord
 
 Pour créer un bot discord, il faudras commencer par aller sur https://discord.com/developers/applications et créer une "Nouvelle Application".
-Ensuite, allez dans "BOT" et "Build Bot". Et pour inviter votre bot dans votre serveur discord, allez dans https://discord.com/developers/applications/738304437151596554/oauth2 et cochez "boot" et "administrateur" puis rendez-vous sur le site.
+Ensuite, allez dans "BOT", "Build Bot". Et pour inviter votre bot dans votre serveur discord, allez dans https://discord.com/developers/applications/738304437151596554/oauth2 et cochez "boot" et "administrateur" puis rendez-vous sur le site.
 Pour installer python, il faudras se rendre sur ce site https://www.python.org/downloads/ et télécharger python.
 ET pour instaler discord.py, ouvrez le cmd et érivez :
 
