@@ -30,5 +30,17 @@ Enfin pour lancer le bot sur discord, il vous suffit d'écrire :
 bot.run("votre tocken")
 ````
 
-Pour récupérer votre tocken, allez dans l'espace développeur de discord ( https://discord.com/developers/applications/738304437151596554/bot ) et copier votre "tocken".
-Votre bot est en ligne !
+Pour récupérer votre tocken, allez dans l'espace développeur de discord ( https://discord.com/developers/applications/738304437151596554/bot ) et copier votre "tocken". 
+Votre bot est en ligne ! 
+Mais il n'y a aucune commandes ?! 
+C'est normal !
+
+Ouvrez votre "main.py" et marquez ( avant le bot.run() !! ) :
+
+````
+@bot.command()
+async def bonjour(ctx):
+    await ctx.send("salut")
+````
+
+Donc si vous lancer votre code, et que, sur discord vous écrivez "!bonjour", le bot répondras "salut" !
