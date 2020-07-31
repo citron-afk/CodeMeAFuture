@@ -9,7 +9,7 @@ Et pour instaler discord.py, ouvrez le cmd et érivez :
 python -m pip install --upgrade --force-reinstall discord.py
 ````
 
-Puis, allez dans votre éditeur de code  ( PyCharm est le plus adapté ) et écrivez :
+Puis, allez dans votre éditeur de code  ( PyCharm est le plus adapté ), créer un nouveau projet et un "main.py" et écrivez :
 
 ````
 import discord
