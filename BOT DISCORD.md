@@ -1,7 +1,7 @@
 # Créer un bot discord
 
 Pour créer un bot discord, il faudras commencer par aller sur https://discord.com/developers/applications et créer une "Nouvelle Application".
-Ensuite, allez dans "BOT", "Build Bot". Et pour inviter votre bot dans votre serveur discord, allez dans https://discord.com/developers/applications/738304437151596554/oauth2 et cochez "bot" et "administrateur" puis rendez-vous sur le site.
+Ensuite, allez dans "BOT", "Build Bot". Et pour inviter votre bot dans votre serveur discord, allez dans https://discord.com/developers/applications puis oauth2 et cochez "bot" et "administrateur" puis rendez-vous sur le site.
 Pour installer python, il faudras se rendre sur https://www.python.org/downloads/ et télécharger python.
 Et pour instaler discord.py, ouvrez le cmd et érivez :
 
@@ -30,7 +30,7 @@ Enfin pour lancer le bot sur discord, il vous suffit d'écrire :
 bot.run("votre tocken")
 ````
 
-Pour récupérer votre tocken, allez dans l'espace développeur de discord ( https://discord.com/developers/applications/738304437151596554/bot ) et copier votre "tocken". 
+Pour récupérer votre tocken, allez dans l'espace développeur de discord ( https://discord.com/developers/applications puis "bot" ) et copier votre "tocken". 
 Votre bot est en ligne ! 
 Mais il n'y a aucune commandes ?! 
 C'est normal !
